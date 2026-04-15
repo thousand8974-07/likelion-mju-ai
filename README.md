@@ -32,6 +32,9 @@ git checkout -b {본인 깃허브 아이디}
 ### 4. 과제 구현
 주차별 과제 폴더에서 과제를 진행합니다.
 
+아래 이미저처럼 각 아기사자분별로 폴더가 있습니다. 본인 이름으로 된 폴더에서 작업을 하시면 됩니다.
+<img width="908" height="823" alt="folders" src="https://github.com/user-attachments/assets/afb86dd8-eed7-4898-9339-9d5ea0394059" />
+
 ### 5. 코드 작성 후 add, commit
 > 기능 구현을 완료한 후 로컬 저장소에 변경된 부분을 반영하기 위해 add, commit 명령을 사용합니다.
 ```
